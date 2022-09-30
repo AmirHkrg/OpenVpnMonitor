@@ -1,5 +1,5 @@
 # OpenVpnMonitor
-OpenVPM server monitoring
+OpenVPN server monitoring
 
 # Install 
 Place the file OpenVpnMonitor.py next to the file openvpn-status.log and run it.
