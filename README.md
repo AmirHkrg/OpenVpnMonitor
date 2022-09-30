@@ -1,5 +1,5 @@
 # OpenVpnMonitor
-Checking people who are connected to Open vpn
+OpenVPM server monitoring
 
 # Install 
 Place the file OpenVpnMonitor.py next to the file openvpn-status.log and run it.
